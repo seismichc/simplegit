@@ -10,4 +10,4 @@ Author : Scott Chacon
 * Second
 * Third
 
-`$ command` is very useful.
+`import obspy` is very useful.
